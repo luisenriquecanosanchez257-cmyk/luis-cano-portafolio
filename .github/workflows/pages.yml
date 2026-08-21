@@ -1,4 +1,5 @@
 name: Publicar portafolio
+# GitHub Pages habilitado
 on:
   push:
     branches: [main]
